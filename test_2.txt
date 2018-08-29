@@ -1,0 +1,13 @@
+move
+move
+move
+left
+move
+report
+place 4,2,west
+report
+left
+move
+right
+move
+report
